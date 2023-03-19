@@ -1,6 +1,6 @@
 {
     "java.project.sourcePaths": [
-        "library-fa22"
+        "lab01"
     ],
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
