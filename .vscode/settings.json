@@ -2,7 +2,8 @@
     "java.project.sourcePaths": [
         "lab01",
         "proj0",
-        "lectures\\lec3"
+        "lectures\\lec3",
+        "lectureCode-fa22"
     ],
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
